@@ -6,7 +6,6 @@
 
 #include "LaneDetection.h"
 
-//git 너무 어려워영...ㅠㅠ
 
 // Lane marking definition 
 #define MAX_LANE_MARKING 2000
